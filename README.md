@@ -9,27 +9,39 @@
 ---
 
 ## 🖤 About Me
-- 🧑‍💻 Passionate about Web Development & Frontend  
-- 🎨 Love creating clean & smooth UI in both code & design  
-- 📚 Student of SMK PPLG with strong interest in software & UI/UX  
+- 🧑‍💻 Passionate about Web Development
+- 🎨 Love creating clean & smooth UI in both code & design   
 - ⚡ Minimalist, detail-oriented, and always learning something new
+- 🌱 Currently Learning : [Laravel/Q.A]
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,sqlite,figma" />
-</p>
+
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,bootsrap,css,js" />
+
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite" />
+
+**Tools & Design:**  
+<img src="https://skillicons.dev/icons?i=figma,git,github" />
 
 ---
 
 ## 🚀 Featured Projects
-Here are some projects I’ve been working on:
+Here are latest projects I’ve been working on:
 
+- **SkyAntara** — Web-based Airline Tickets Reservation 
+  <sub>(Laravel • BootStrap • SQLITE)</sub>
+  
 - **SuaraKita** — Web-based quick count system for school election  
   <sub>(HTML • CSS • JS • PHP • MySQL)</sub>
 
-- **More projects coming soon...**  
+- **ArcadiaBook** - Library Book's Web
+  <sub>(HTML • CSS • JS • PHP • MYSQL)</sub>
+  
+- **More projects (coming soon)...**  
   <sub>(I build things whenever inspiration hits 🖤)</sub>
 
 ---
@@ -42,7 +54,7 @@ Here are some projects I’ve been working on:
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect!
 <p align="left">
   <a href="https://instagram.com/hnkhyyy_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23181818?style=for-the-badge&logo=instagram&logoColor=white" />
