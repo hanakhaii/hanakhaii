@@ -12,20 +12,17 @@
 - 🧑‍💻 Passionate about Web Development
 - 🎨 Love creating clean & smooth UI in both code & design   
 - ⚡ Minimalist, detail-oriented, and always learning something new
-- 🌱 Currently Learning : [Laravel/Q.A]
+- 🌱 Currently Learning : [React JS]
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,bootsrap,css,js" />
-
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 
 **Tools & Design:**  
-<img src="https://skillicons.dev/icons?i=figma,git,github" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
 ---
 
@@ -56,12 +53,8 @@ Here are latest projects I’ve been working on:
 
 ## 🔗 Let's Connect!
 <p align="left">
-  <a href="https://instagram.com/hnkhyyy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23181818?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:hanakhaii668@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23181818?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hanakhairunnisa668">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
 </p>
 
