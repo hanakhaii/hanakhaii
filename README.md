@@ -43,14 +43,6 @@ Here are latest projects I’ve been working on:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanakhaii&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanakhaii&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🔗 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/hanakhairunnisa668">
