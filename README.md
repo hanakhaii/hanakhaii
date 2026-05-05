@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I'm Hana Khairunnisa ✨</h1>
 <p align="center">
-  <b>Web Developer • Frontend • SMK PPLG Student</b>
+  <b>Web Developer • Frontend • High School Graduate Vocational</b>
 </p>
 <p align="center">
   Building clean interfaces & meaningful experiences  
